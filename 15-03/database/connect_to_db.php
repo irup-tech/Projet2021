@@ -4,7 +4,7 @@
 
 define('MYSQL_USER', 'root');
 define('MYSQL_PASSWORD', 'Vatorea9nsoncerodall!');
-define('MYSQL_HOST', 'localhost');
+define('MYSQL_HOST', '192.168.110.115/phpmyadmin');
 define('MYSQL_DATABASE', 'arduino');
 
 $pdoOptions = array(
