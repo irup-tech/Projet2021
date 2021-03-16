@@ -2,8 +2,8 @@
 
 @ini_set('display_errors', 'ON');
 
-define('MYSQL_USER', 'projet');
-define('MYSQL_PASSWORD', 'projet');
+define('MYSQL_USER', 'root');
+define('MYSQL_PASSWORD', 'Vatorea9nsoncerodall!');
 define('MYSQL_HOST', 'localhost');
 define('MYSQL_DATABASE', 'arduino');
 
