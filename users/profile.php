@@ -8,6 +8,7 @@
 
     /* Vérification de la connectivité de la page */
 
+// Récupère les infos de la session du login 
     session_start();
 
     if(empty($_SESSION['valid_user_connect']) || $_SESSION['valid_user_connect'] !== true){
