@@ -3,7 +3,8 @@
         <h5 class="card-title">Autres infos</h5>
     </div>
     <div class="card-body">
-        <p class="card-text"><?php echo "Autres infos"; ?></p>
-        <button type="button" class="btn btn-primary">Plus d'infos</button>
+        <a class="card-text" href="home/otherInfo.php">
+            <button type="button" class="btn btn-primary" href="otherInfo.php">Plus d'infos</button>
+        </a>
     </div>
 </div>

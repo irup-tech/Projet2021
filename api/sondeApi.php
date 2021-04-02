@@ -25,7 +25,7 @@ if(isset($_POST['uuid']) && isset($_POST['num']) && isset($_POST['valeur'])){
         ));
 
     } else {
-        print 'Unknow';
+        print 'Unknown';
     }
 
 } else {
